@@ -10,5 +10,5 @@ sudo: false
 install:
   - npm install
 script:
-  - npm run lint
+ # - npm run lint
   - npm test
